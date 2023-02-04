@@ -1,4 +1,4 @@
-# HomeWork_Lesson1_WebTech
+# HomeWork-Lesson1-WebTech
 ## Домашнее задание к уроку 1. Веб-технологии: вчера, сегодня, завтра
 ## ДЗ: на основе сайта mos.ru и gb.ru
 
